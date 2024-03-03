@@ -10,7 +10,8 @@
 [Gif de exemplo das páginas] 
 
 
-![](https://github.com/Gabriel4502/Portifolio/assets/47870292/4df946b2-37ca-47d9-a4a5-2b07da072b2a)
+
+![369d2d62-c9d9-4810-902f-48833980a9a1](https://github.com/Gabriel4502/Portifolio/assets/47870292/1221ea10-63d4-4847-a06b-e7b6ece9aff3)
 
 
 
