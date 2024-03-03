@@ -9,10 +9,8 @@
 
 [Gif de exemplo das páginas] 
 
- <img loading="lazy"  src="
 
-https://github.com/Gabriel4502/Portifolio/assets/47870292/fbcabe44-687f-43fb-b9ad-5ddf8961eb44
+![](https://github.com/Gabriel4502/Portifolio/assets/47870292/fbcabe44-687f-43fb-b9ad-5ddf8961eb44)
 
-"/>
 
 
