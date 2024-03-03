@@ -1,6 +1,6 @@
 <h1 align="center"> Meu Projeto de Portifólio </h1>
 
-![Badge em desenvolvimento] (https://img.shields.io/badge/Status-Em%20desenvolvimento-brightgreen)
+![Badge em desenvolvimento] https://img.shields.io/badge/Status-Em%20desenvolvimento-brightgreen
 
 
 [Gif de exemplo das páginas] 
